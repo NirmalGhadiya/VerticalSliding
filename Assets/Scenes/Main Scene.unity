@@ -1032,7 +1032,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 193904984}
-  - component: {fileID: 193904985}
   m_Layer: 6
   m_Name: Panel - Swipe
   m_TagString: Untagged
@@ -1060,18 +1059,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &193904985
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 193904983}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 53fdc5a95c3788841bcb4aa9f4960a8d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &227227963
 GameObject:
   m_ObjectHideFlags: 0
@@ -1130,7 +1117,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 18d60aa99635c8b4598bcdd7914da493, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 21ab3347d8adb8b4a83204cfd8e623ff, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4409,7 +4396,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 18d60aa99635c8b4598bcdd7914da493, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e9a2e60cef840184da1d8c01cc5b1365, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5513,7 +5500,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 18d60aa99635c8b4598bcdd7914da493, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 268078689c7f85340a729e070c4d5cd4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
